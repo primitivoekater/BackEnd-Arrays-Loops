@@ -13,7 +13,7 @@
  
 ---
 
-_Tornando público os exercícios introdutórios de FrontEnd fornecidos pela Cubos Academy no curso de desenvolvimento de software._
+_Tornando público os exercícios introdutórios de BackEnd fornecidos pela Cubos Academy no curso de desenvolvimento de software._
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
